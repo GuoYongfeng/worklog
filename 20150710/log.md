@@ -34,3 +34,6 @@
 * 前端：*Angular* *bootstrap* *bower* *jquery*
 * 后端：*nodejs* *mongoose* *express*
 
+## 其他工作
+* 面试
+
